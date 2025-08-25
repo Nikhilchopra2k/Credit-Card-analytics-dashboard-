@@ -12,11 +12,11 @@ This allow users to filter and explore the data using slicers and other interact
 - *MySQL* → for storing and cleaning credit card  and cusstomer datasets.
 - *Power BI Desktop* → for building dashboards and creating DAX measures.
 - *Power BI Service* → for publishing and sharing interactive reports.
-  # 🔗Live Dashboards
+# 🔗Live Dashboards
 [View Transcations Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=10974a962c0750880673)
 
 [View Customer Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=0038427c38013a973706)
-  # 🔗Analytical Findings 
+# 🔗Analytical Findings 
   **Transcations Dashboards**
   
   Most payments done via Swipe followed by Chip and online.
@@ -32,7 +32,7 @@ This allow users to filter and explore the data using slicers and other interact
   High income groups and graduates contribute a larger share of spending and interest earned.
   
   Male customer are valuable segment than Females.
-  # 🔗How to use
+# 🔗How to use
   
 Open the Power BI dashboard.
 
@@ -41,5 +41,9 @@ Use the filters (slicers) to narrow down the data based on categories such as Ag
 View KPIs (above mentioned) and trends to analyze business performance.
 
 Click on the navigation buttons to access different pages of the dashboard (e.g., Charts, KPIs, etc.).
-  
+# 🔗Conclusion 
+
+Overall Card activation rate is 57.4%
+Overall Deliquent rate is 6.07%
+
   
