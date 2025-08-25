@@ -19,11 +19,11 @@ This allow users to filter and explore the data using slicers and other interact
 # 🔗Analytical Findings 
   **Transcations Dashboards**
   
-  Most payments done via Swipe followed by Chip and online.
+  Most payments are done via Swipe followed by Chip and online.
   
   Certains states like (TX and NY) generate significantly higher transcation revenue compared to others.
   
-  Revenue and Transc_Vol show peak around certain months.
+  Revenue and Transc_Vol show peaks around certain months.
 
   **Transcations Dashboards**
   
