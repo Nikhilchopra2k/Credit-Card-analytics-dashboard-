@@ -13,4 +13,4 @@ This allow users to filter and explore the data using slicers and other interact
 - *Power BI Desktop* → for building dashboards and creating DAX measures.
 - *Power BI Service* → for publishing and sharing interactive reports.
   # 🔗Live Dashboards
-  [View Transcations Dashboard](https://app.powerbi.com/viewr=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=10974a962c0750880673)
+  [View Transcations Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=10974a962c0750880673)
