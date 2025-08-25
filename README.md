@@ -19,12 +19,24 @@ This allow users to filter and explore the data using slicers and other interact
   # 🔗Analytical Findings 
   **Transcations Dashboards**
   Most payments done via Swipe followed by Chip and online.
+  
   Certains states like (TX and NY) generate significantly higher transcation revenue compared to others.
+  
   Revenue and Transc_Vol show peak around certain months.
-  Overall activation rate is 57.4%
 
   **Transcations Dashboards**
-  Age group 40-50 contributes highest revenue making them most valuable segment
+  Age group 40-50 contributes highest revenue making them most valuable segment.
+  
   High income groups and graduates contribute a larger share of spending and interest earned.
+  
   Male customer are valuable segment than Females.
+  # 🔗How to use
+Open the Power BI dashboard.
+
+Use the filters (slicers) to narrow down the data based on categories such as Age, Gender,Card Category,Week_num and Quarter.
+
+View KPIs (above mentioned) and trends to analyze business performance.
+
+Click on the navigation buttons to access different pages of the dashboard (e.g., Charts, KPIs, etc.).
+  
   
