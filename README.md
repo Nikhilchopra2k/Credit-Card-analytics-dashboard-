@@ -14,4 +14,5 @@ This allow users to filter and explore the data using slicers and other interact
 - *Power BI Service* → for publishing and sharing interactive reports.
   # 🔗Live Dashboards
   [View Transcations Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=10974a962c0750880673)
+
  [View Customer Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhZWE0NDgtNjJmYi00MjI2LWFiYWItZWFjN2E5NmJkMTViIiwidCI6ImFkODkzZWU5LTU0YWEtNGIzZC05ODNjLTFhNzc3Y2U1YTgxOSJ9&pageName=0038427c38013a973706)
