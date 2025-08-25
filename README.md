@@ -44,6 +44,7 @@ Click on the navigation buttons to access different pages of the dashboard (e.g.
 # 🔗Conclusion 
 
 Overall Card activation rate is 57.4%
+
 Overall Deliquent rate is 6.07%
 
   
