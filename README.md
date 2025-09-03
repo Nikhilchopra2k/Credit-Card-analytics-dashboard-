@@ -9,7 +9,7 @@ This project demonstrates the creation of an interactive Power BI dashboard desi
 **Credit Card Customer** dashboard present key performance indicators (KPIs) such as Avg_Customer_Age,Total_Interest_Earned, Total_Income these describe customer financial behaviour.
 This allow users to filter and explore the data using slicers and other interactive features.
 # 🔗Tech Stack  
-- *MySQL* → for storing and cleaning credit card  and cusstomer datasets.
+- *MySQL* → for storing and cleaning credit card  and customer datasets.
 - *Power BI Desktop* → for building dashboards and creating DAX measures.
 - *Power BI Service* → for publishing and sharing interactive reports.
 # 🔗Live Dashboards
